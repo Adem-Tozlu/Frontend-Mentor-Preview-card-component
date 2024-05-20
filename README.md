@@ -17,7 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![Screenshot](images/FireShot%20Capture%20006%20-%20Am%20I%20Responsive_%20-%20ui.dev.png)
+![Screenshot](images/Responsive.png)
 
 ### Links
 

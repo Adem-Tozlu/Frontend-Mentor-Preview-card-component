@@ -20,7 +20,7 @@ Dies ist eine Lösung für die [Product preview card component challenge on Fron
 
 ### Screenshot
 
-![Screenshot](/assets/images/desktop-ansicht.png)
+![Screenshot](images/Responsive.png)
 
 ### Links
 
