@@ -25,7 +25,7 @@ Dies ist eine Lösung für die [Product preview card component challenge on Fron
 ### Links
 
 - Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Frontend-Mentor-Results-summary-component)
-- Live-Site-URL: [Website-QR-Code](https://frontend-mentor-results-summary-component-eta.vercel.app/)
+- Live-Site-URL: [Website-QR-Code](https://frontend-mentor-preview-card-component.vercel.app/)
 
 ## Mein Prozess
 
@@ -37,17 +37,7 @@ Dies ist eine Lösung für die [Product preview card component challenge on Fron
 - Flexbox
 - Mobile-design
 - Grid
-- Linieare Gradients
 
-
-### Was ich gelernt habe
-
-Ich habe meine Fähigkeiten im Bereich lineare Gradienten verbessert und gelernt, für welche Zwecke Z-Index wichtig werden kann.
-
-
-### Weiterentwicklung
-
-I have enhanced my skills in linear gradients and learned the purposes for which the Z-Index becomes important. In the course of my web development school, I plan to build several projects on the side to significantly improve my skills.
 
 ## Autor
 

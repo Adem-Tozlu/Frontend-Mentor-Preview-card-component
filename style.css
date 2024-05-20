@@ -2,6 +2,7 @@
     /*Primary Colors*/
     --color-dark-cyan:hsl(158, 36%, 37%);
     --color-cream: hsl(30, 38%, 92%);
+    --color-dark-gree:hsl(158, 43%, 16%);
 
     /*Neutral Colors*/
     --color-very-dark-blue:hsl(212, 21%, 14%);
@@ -115,8 +116,6 @@ span{
 button{
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-
-    
    display: grid;
    margin:1rem auto;
    grid-template-columns: auto auto;
@@ -130,6 +129,10 @@ gap: 10px;
     color: var(--color-white);
     border: none;
     border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: var(--color-dark-gree);
 }
 
 .attribution{

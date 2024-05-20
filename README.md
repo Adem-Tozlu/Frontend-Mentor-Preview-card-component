@@ -22,7 +22,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Github-Solution](https://github.com/Adem-Tozlu/Frontend-Mentor-Preview-card-component)
-- Live Site URL: [Website-QR.Code](https://frontend-mentor-results-summary-component-eta.vercel.app/)
+- Live Site URL: [Website-QR.Code](https://frontend-mentor-preview-card-component.vercel.app/)
 
 ## My process
 
